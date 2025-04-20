@@ -66,5 +66,5 @@ The system must ensure data privacy compliance, accuracy in classification, and 
 ---
 
 # 🧠 Prepared by
-- Sarthak | 2025 Akaike Assignment
+- Sarthak | Akaike Assignment 2025
 
